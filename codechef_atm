@@ -1,0 +1,10 @@
+try:
+    x,y=input.split()
+    x=int(x)
+    y=float(y)
+    if(x%5==0 and (x+0.5)<y):
+        print("{:.2f}".format(y-(x+0.5)))
+    elif(x%5!=0 or (x+0.5)>=y):
+        print("{:.2f}".format(y))    
+except:
+    pass
