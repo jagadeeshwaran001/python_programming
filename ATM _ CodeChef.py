@@ -1,3 +1,4 @@
+#link for problem:-https://www.codechef.com/problems/HS08TEST
 x, y = input().split()
 x, y = [int(x),float(y)]
 if x % 5 == 0 and x + 0.5 < y:
