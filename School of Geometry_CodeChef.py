@@ -1,3 +1,4 @@
+#link for problem:-https://www.codechef.com/problems/SNUG_FIT
 try:
     t=int(input())
     for i in range(t):
