@@ -1,3 +1,4 @@
+#link for problem:-https://www.codechef.com/problems/MEDIC
 def fo(start,end):
     count=0
     for i in range(start,end,2):
