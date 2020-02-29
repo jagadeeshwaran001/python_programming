@@ -1,3 +1,4 @@
+#link for problem:-https://www.codechef.com/problems/CASH
 try:
     t=int(input())
     for i in range(t):
