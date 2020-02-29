@@ -1,4 +1,4 @@
-#link for problem:-https://www.codechef.com/submit/ZUBTRCNT
+#link for problem:-https://www.codechef.com/problems/ZUBTRCNT
 try:
     t=int(input())
     s=[]
